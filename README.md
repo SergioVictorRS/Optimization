@@ -1,7 +1,5 @@
 
 ---
-
-````markdown
 # Agendador de Reuniões com OptaPlanner
 
 Este projeto é uma **adaptação personalizada** do exemplo de agendamento de reuniões do [OptaPlanner](https://www.optaplanner.org/) para funcionar com arquivos Excel fornecidos.
@@ -19,7 +17,7 @@ Ele utiliza algoritmos de otimização para alocar reuniões de forma eficiente,
 ---
 
 ## Como Executar Localmente
-
+````markdown
 ### 1. Clone o Repositório
 
 ```bash
