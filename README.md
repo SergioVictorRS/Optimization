@@ -17,7 +17,7 @@ Ele utiliza algoritmos de otimização para alocar reuniões de forma eficiente,
 ---
 
 ## Como Executar Localmente
-````markdown
+
 ### 1. Clone o Repositório
 
 ```bash
