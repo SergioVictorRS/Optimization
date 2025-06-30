@@ -22,7 +22,6 @@ Ele utiliza algoritmos de otimização para alocar reuniões de forma eficiente,
 
 ```bash
 git clone https://github.com/SergioVictorRS/Optimization.git
-cd seu-repositorio
 ````
 
 ### 2. Insira o Arquivo Excel
